@@ -6,6 +6,7 @@ arch:
 codenotary: codenotary@degatano.com
 description: Promtail for Home Assistant
 image: ghcr.io/mdegat01/promtail/{arch}
+advanced: true
 init: false
 journald: true
 map:
