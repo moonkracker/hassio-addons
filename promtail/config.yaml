@@ -36,6 +36,6 @@ schema:
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
   skip_default_scrape_config: bool?
 slug: promtail
-url: https://github.com/mdegat01/addon-promtail
+url: https://github.com/moonkracker/addon-promtail
 version: 2.2.0
 watchdog: http://[HOST]:[PORT:9080]/ready
